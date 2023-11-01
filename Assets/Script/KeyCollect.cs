@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class KeyCollect : MonoBehaviour
 {
-    // Start is called before the first frame update
     public GameObject door;
     public AudioSource doorOpen;
    
